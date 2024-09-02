@@ -2,8 +2,6 @@
 <html>
     <head>
     <center>
-    <title>LAKSHMI NARICHMIER MESS WEBSITE</title>
-    <link rel="icon" href="narisamer image.jpg">
     <h1>WELCOME TO THE MESS WEBSITE 🍛</h>
     </center>
     <hr>
